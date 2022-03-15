@@ -10,7 +10,8 @@
 [Remya Muraleedharan - Application Developer](#Remya)\
 [Henry Mason - Associate Application Developer](#Henry)\
 [Sam Asquith - Associate Application Developer](#Samuel)\
-[Aum Desai - Associate Application Developer](#Aum)
+[Aum Desai - Associate Application Developer](#Aum)\
+[Lilli Belfield  - HR Partner for CIC North](#Lilli)\
 
 ### Sarah
 
@@ -34,10 +35,6 @@ and I was hooked from there. Now I have worked for IBM CIC since 2018 and been g
 as a full stack Developer and Scrum Master. I enjoy the variation of tasks I get in my role, that I am able
 to keep learning during my role and how no two weeks are the same!
 
-### Sam
-
-I joined IBM CIC as an Associate Application Developer in Feburary 2021. Before IBM, I studied Digital Media with the aim of being a designer, I quickly realised I was more interested in building websites than designing them. After a web development course, lots of self-teaching and a few internships, I got my first graduate developer job doing front-end development and accessibility audits in an agency that focused on public sector. But I wanted to gain more experience in others of development and take on some new challenges so I applied for the Application Developer role at IBM! I've not been with IBM that long but I've learned lots in such a short amount of time and I'm loving taking on the new challenges that come with the role!
-
 ### Kristel
 
 I joined IBM CIC as a Developer in March 2021. I started my career as a functional consultant and worked with various proprietary software. I wanted more hands-on experience creating applications from "scratch" and not to get tied down to a single architecture/platform. I switched to full stack development, building bespoke applications both in and outside of work, where I quickly developed my technical knowledge and skills over the years. I am enjoying the variety of work at my current role and looking forward to the numerous possibilities of career growth that IBM has to offer.
@@ -57,6 +54,11 @@ I joined IBM in February 2021 as an Associate Developer. Before joining IBM I st
 ### Aum
 
 Hola! I joined IBM CIC in June 2021 as a graduate. I studied Computer Science with a focus in Artificial Intelligence at the University of Kent. Even though it's been a short period in my current role, I have thoroughly enjoyed my time working at IBM due to the vast amount of self growth opportunities and the constant learning experiences IBM provides.
+
+### Lilli
+
+I joined IBM CIC in August 2015 on a 6 month contract as an intern in the recruitment team after completing my LLB in Law at University of Leicester. What I expected to be a short term role to gain expeirence turned into a great career thanks to the opportunities I've been given at IBM CIC. Within the last (nearly) 7 years I've progressed from my original role as a recruitment intern, into a recruitment co-ordinator, recruiter, and then recruitment partner. I then decided I wanted to do something new and IBM supported me by funding my CIPD certification and giving me the opportunity to work within the HR Team. Within this team I've progressed from HR Partner Support into a HR Partner Role. My role as HR Partner involves supporting the HR processes for all of our CIC North employees, plus I look after some strategy areas for the whole of CIC UK such as Diversity and Inclusion. As part of my role I get to create and run awesome schemes like this Learn to Code the Future course. My career journey and skills aren't particularly relevant to aspiring techies (like yourself) but I hpoe my bio has shown you the amazing career opportunities we have at IBM CIC and this course may be your first step on that journey. 
+
 
 <div style="width: 100%">
 <a href='README.md' ><-- Previous Section: Week 1 Introduction</a>
